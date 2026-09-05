@@ -6,11 +6,11 @@
 
 ---
 
-Desarrollador enfocado en crear aplicaciones web modernas, soluciones digitales y proyectos orientados a negocios.
+Developer focused on creating modern web applications, digital solutions, and business-oriented projects.
 
-Actualmente estudio programación y desarrollo proyectos con **HTML, CSS, JavaScript, Bootstrap, SQL y Git**.
+I am currently studying programming and project development using **HTML, CSS, JavaScript, Bootstrap, SQL, and Git**.
 
-Fundador de **Emprein**, proyecto enfocado en software y servicios digitales.
+Founder of **Emprein**, a project focused on software and digital services.
 
 ## 🚀 Tecnologías
 
