@@ -1,3 +1,53 @@
-# NehuenPrime
+# Nehuén Boneo
 
-Software Developer 🇦🇷
+### Software Developer | Founder of Emprein
+
+🇦🇷 Argentina
+
+---
+
+Desarrollador enfocado en crear aplicaciones web modernas, soluciones digitales y proyectos orientados a negocios.
+
+Actualmente estudio programación y desarrollo proyectos con **HTML, CSS, JavaScript, Bootstrap, SQL y Git**.
+
+Fundador de **Emprein**, proyecto enfocado en software y servicios digitales.
+
+## 🚀 Tecnologías
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 💻 Sobre mí
+
+```javascript
+const nehuen = {
+    role: "Software Developer",
+    project: "Emprein",
+
+    technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "SQL",
+        "Git"
+    ],
+
+    goals: [
+        "Build software",
+        "Grow Emprein",
+        "Keep learning"
+    ]
+}
+```
+
+
+<p align="center">
+<a href="https://emprein.com.ar">
+  <img src="https://img.shields.io/badge/Emprein-47A151?style=for-the-badge">
+</a>
+</p>
